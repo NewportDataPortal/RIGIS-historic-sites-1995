@@ -1,0 +1,250 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: RI historic preservation comm
+      Originator: RIGIS
+      Publication_Date: 19950301
+      Title: Historic Sites of Rhode Island; s44chs99
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Providence, Rhode Island
+        Publisher: RIGIS
+      Other_Citation_Details: Suggested bibliographic reference: RIGIS, 1995. Historic Sites of Rhode Island; s44chs99. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 9 October 2014).
+      Online_Linkage: http://www.rigis.org
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: RIGIS
+          Publication_Date: 1995
+          Title: RIGIS Database
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: http://www.rigis.org
+  Description:
+    Abstract: historic site point building property or monument listed on the national register of historic places by the RI historic preservation commission
+    Purpose: state wide geographic inventory
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 1995
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -71.862125
+      East_Bounding_Coordinate: -71.166328
+      North_Bounding_Coordinate: 42.013780
+      South_Bounding_Coordinate: 41.178053
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: society
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: historic site
+      Theme_Keyword: point
+      Theme_Keyword: building
+      Theme_Keyword: property
+      Theme_Keyword: monument
+    Place:
+      Place_Keyword_Thesaurus: GNIS
+      Place_Keyword: United States
+      Place_Keyword: Rhode Island
+      Place_Keyword: northeast
+      Place_Keyword: New England
+  Access_Constraints: None.
+  Use_Constraints:
+    This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+    Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products.  Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: n/a
+        Contact_Organization: RI Dept of Administration-Statewide Planning
+      Contact_Position: RIGIS Coordinator
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 1 Capitol Hill - Planning
+        City: Providence
+        State_or_Province: RI
+        Postal_Code: 02908-5872
+      Contact_Voice_Telephone: 401-22-6483
+      Contact_Facsimile_Telephone: 401-222-6482
+      Contact_Electronic_Mail_Address: rigis@admin.ri.gov
+      Hours_of_Service: 8-4 EST M-F
+      Contact_Instructions: Email Preferred
+  Data_Set_Credit: RIHPC; RIGIS
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: RIGIS standards 99 percent; visual inspection of attribute lists
+  Logical_Consistency_Report: visual inspection of attribute lists; visual inspection of proof maps
+  Completeness_Report: RIGIS standards rms-005 fuzzy-002; topologically complete arc-info point coverage
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: plus or minus 200 feet; visual inspection of proof maps
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: RI historic preservation comm
+          Publication_Date: 199502
+          Title: national register of historic places
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1995
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: RIHPC
+      Source_Contribution: Provided Data
+    Process_Step:
+      Process_Description: Points located on paper maps by rihpc-ridoa-dop were transferred to Mylar quads-1989 dig from tablets-1995 update on-screen digitizing
+      Process_Date: 199502
+    Process_Step:
+      Process_Description: Updated Point of Contact information for this dataset from "RIGIS Coordinator" to "Shane White."
+      Process_Date: 20150528
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: University of Rhode Island Environmental Data Center
+            Contact_Person: Erica Tefft
+          Contact_Position: Research Associate
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Coastal Institute
+            Address: 1 Greenhouse Road
+            City: Kingston
+            State_or_Province: RI
+            Postal_Code: 02881
+          Contact_Voice_Telephone: 401-874-5054
+          Contact_Electronic_Mail_Address: erica@edc.uri.edu
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 381
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Point
+      Point_and_Vector_Object_Count: 4
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 3800
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999994
+            Longitude_of_Central_Meridian: -71.500000
+            Latitude_of_Projection_Origin: 41.083333
+            False_Easting: 328083.333333
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000512
+          Ordinate_Resolution: 0.000512
+        Planar_Distance_Units: survey feet
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+      Altitude_Resolution: 0.000010
+      Altitude_Encoding_Method: Explicit elevation coordinate included with horizontal coordinates
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Historic_Sites
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: TOWN
+      Attribute_Definition: town in which point located
+      Attribute_Definition_Source: ri historic preservation comm
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Free text field.
+    Attribute:
+      Attribute_Label: OBJECTID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: CODE
+      Attribute_Definition: first 2-town osp code last 3-seqential number
+      Attribute_Definition_Source: ri historic preservation comm
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 01003
+          Range_Domain_Maximum: 39030
+    Attribute:
+      Attribute_Label: GlobalID
+    Attribute:
+      Attribute_Label: NAME
+      Attribute_Definition: official name as shown on national register
+      Attribute_Definition_Source: ri historic preservation comm
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Free text field.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: University of Rhode Island Environmental Data Center
+        Contact_Person: Erica Tefft
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 1 Greenhouse Road
+        City: Kingston
+        State_or_Province: RI
+        Postal_Code: 02881
+      Contact_Voice_Telephone: 401-874-5054
+      Contact_Electronic_Mail_Address: erica@edc.uri.edu
+      Contact_Instructions: email preferred
+  Distribution_Liability: This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Esri shapefile
+        File_Decompression_Technique: ZIP
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.rigis.org
+    Fees: No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.
+Metadata_Reference_Information:
+  Metadata_Date: 20070628
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: RI Department of Administration; Division of Information Technology
+        Contact_Person: REQUIRED: The person responsible for the metadata information.
+      Contact_Position: RIGIS Coordinator
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 1 Capitol Hill
+        City: Providence
+        State_or_Province: Rhode Island
+        Postal_Code: 02908
+        Country: USA
+      Contact_Voice_Telephone: 401-222-6483
+      Contact_Facsimile_Telephone: 401-222-6482
+      Contact_Electronic_Mail_Address: rigis@admin.ri.gov
+      Hours_of_Service: 8:00 - 3:30
+      Contact_Instructions: E-mail preferred
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
